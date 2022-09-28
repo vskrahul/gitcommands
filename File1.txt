@@ -3,3 +3,4 @@ change#2 - this is my second change
 change#3 - this is my third change
 change$4 - this is my fourth change
 change#5 - this is my fifth change
+change$6 - this is my 6th change on TEST branch
